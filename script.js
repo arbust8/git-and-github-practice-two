@@ -1,2 +1,2 @@
 // JavaScript to be added
-<button onClick="">Subscribe to mailing list</button>
+<button onClick="">Thanks for your emal!</button>
